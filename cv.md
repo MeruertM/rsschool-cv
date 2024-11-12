@@ -23,6 +23,14 @@
 - Date of graduation: 2025
 ---
 
+4. **Courses:**
+
+- «Introduction to Cybersecurity» on Cisco Networking Academy (1 month)
+- «Penetration Testing, Incident Response and Forensics» on Coursera (IBM university) (1 month)
+- «Cyber ​​Threat Intelligence» on Coursera (IBM university) (1 month)
+- «Cybersecurity Capstone: Breach Response Case Studies» on Coursera (IBM university) (1 month)
+---
+
 5. **Skills and Proficiency:**
 
 - Basics of system administration
