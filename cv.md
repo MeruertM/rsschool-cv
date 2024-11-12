@@ -1,37 +1,34 @@
 ## Matenova Meruert
 
-### 1. **Personal Information:**
+
+1. **Personal Information:**
 
 - Citizenship: Republic of Kazakhstan
 - Date of birth: February 14, 2003 (21 years old)
 - Gender: Female
 - Marital status: Single
 
-
-### 2. **Contacts:**
+2. **Contacts:**
 
 - Phone: +77026321254
 - E-mail: meruert.matenova@mail.ru
 - Telegram: @SadMoonshine
 
-
-### 3. **Education:**
+3. **Education:**
 
 > Satbayev University: currently studying (4th year)
 - Faculty: Cybersecurity, processing and storage of information
 - Specialty: Information security
 - Date of graduation: 2025
 
-
-### 4. **Courses:**
+4. **Courses:**
 
 - «Introduction to Cybersecurity» on Cisco Networking Academy (1 month)
 - «Penetration Testing, Incident Response and Forensics» on Coursera (IBM university) (1 month)
 - «Cyber ​​Threat Intelligence» on Coursera (IBM university) (1 month)
 - «Cybersecurity Capstone: Breach Response Case Studies» on Coursera (IBM university) (1 month)
 
-
-### 5. **Skills and Proficiency:**
+5. **Skills and Proficiency:**
 
 - Basics of system administration
 - Skills in working with Linux systems
@@ -39,10 +36,9 @@
 - HTML5, CSS3
 - JavaScript Basics
 - Git, GitHub
-- VS Code, IntelliJ IDEA
+- VS Code, IntelliJ IDEA\
 
-
-### 6. **Code Example:**
+6. **Code Example:**
 
 Numbers API outputs a random fact about the number you enter into the string:
 
@@ -74,7 +70,7 @@ Numbers API outputs a random fact about the number you enter into the string:
     });
 ```
 
-### 7. **Languages:**
+7. **Languages:**
 
 - Russian: native
 - Kazakh: elementary
